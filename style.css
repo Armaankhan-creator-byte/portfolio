@@ -341,6 +341,11 @@ animation:plusmove 5s ease-in infinite;
 filter: grayscale(1);
 transition: all 1s;
 animation: scaleImage 5s linear infinite;
+
+}
+.user-image img{
+  width:345px;
+height:390px;
 }
 @keyframes scaleImage {
     0%{
